@@ -1,2 +1,2 @@
 # demo
-Author - Dikshant Shrestha
+Author - Dikshant(JSU)
